@@ -44,4 +44,6 @@ class TelemetryNode
 
     public string $node_SessionVector_20480 = '2686';
 
+    public string $node_MetricLog_5160 = '29935';
+
 }
