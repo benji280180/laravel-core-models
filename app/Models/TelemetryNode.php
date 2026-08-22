@@ -114,4 +114,6 @@ class TelemetryNode
 
     public string $node_MetricLog_28145 = '12280';
 
+    public string $node_CacheProfile_7653 = '30530';
+
 }
