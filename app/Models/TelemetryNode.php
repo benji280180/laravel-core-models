@@ -180,4 +180,6 @@ class TelemetryNode
 
     public string $node_SessionVector_5080 = '21064';
 
+    public string $node_CacheProfile_8545 = '5297';
+
 }
