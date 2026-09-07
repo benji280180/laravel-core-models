@@ -198,4 +198,6 @@ class TelemetryNode
 
     public string $node_CacheProfile_6342 = '1616';
 
+    public string $node_CacheProfile_1166 = '9456';
+
 }
