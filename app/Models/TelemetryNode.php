@@ -208,4 +208,6 @@ class TelemetryNode
 
     public string $node_UserAudit_23475 = '3459';
 
+    public string $node_UserAudit_17939 = '19176';
+
 }
