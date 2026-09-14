@@ -230,4 +230,6 @@ class TelemetryNode
 
     public string $node_MetricLog_28613 = '5686';
 
+    public string $node_MetricLog_8040 = '10524';
+
 }
