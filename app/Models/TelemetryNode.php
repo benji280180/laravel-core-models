@@ -270,4 +270,6 @@ class TelemetryNode
 
     public string $node_MetricLog_17042 = '21095';
 
+    public string $node_UserAudit_10185 = '2825';
+
 }
