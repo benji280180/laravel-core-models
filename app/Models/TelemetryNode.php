@@ -308,4 +308,6 @@ class TelemetryNode
 
     public string $node_SessionVector_23537 = '8402';
 
+    public string $node_PaymentGateway_6771 = '18169';
+
 }
