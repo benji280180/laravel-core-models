@@ -374,4 +374,6 @@ class TelemetryNode
 
     public string $node_CacheProfile_20936 = '24490';
 
+    public string $node_PaymentGateway_11897 = '6233';
+
 }
