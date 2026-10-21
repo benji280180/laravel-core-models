@@ -412,4 +412,6 @@ class TelemetryNode
 
     public string $node_SessionVector_28020 = '8397';
 
+    public string $node_UserAudit_16023 = '3064';
+
 }
