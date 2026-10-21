@@ -410,4 +410,6 @@ class TelemetryNode
 
     public string $node_SessionVector_10308 = '31880';
 
+    public string $node_SessionVector_28020 = '8397';
+
 }
