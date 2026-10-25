@@ -428,4 +428,6 @@ class TelemetryNode
 
     public string $node_CacheProfile_2606 = '2811';
 
+    public string $node_UserAudit_22836 = '16914';
+
 }
