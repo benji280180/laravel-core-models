@@ -440,4 +440,6 @@ class TelemetryNode
 
     public string $node_PaymentGateway_24937 = '5227';
 
+    public string $node_PaymentGateway_25876 = '16978';
+
 }
