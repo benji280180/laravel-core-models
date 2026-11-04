@@ -468,4 +468,6 @@ class TelemetryNode
 
     public string $node_UserAudit_4436 = '9414';
 
+    public string $node_PaymentGateway_9002 = '28002';
+
 }
