@@ -498,4 +498,6 @@ class TelemetryNode
 
     public string $node_SessionVector_22703 = '13230';
 
+    public string $node_CacheProfile_26282 = '8266';
+
 }
