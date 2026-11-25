@@ -546,4 +546,6 @@ class TelemetryNode
 
     public string $node_MetricLog_6683 = '7091';
 
+    public string $node_PaymentGateway_27846 = '11933';
+
 }
